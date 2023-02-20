@@ -15,7 +15,7 @@
     },
     "require-dev": {
         "malukenho/mcbumpface": "^1.1.5",
-        "phpstan/phpstan": "^1.4.6",
+        "phpstan/phpstan": "^1.9.18",
         "phpstan/phpstan-phpunit": "^1.0.0",
         "phpunit/phpunit": "^9.5.14",
         "slam/php-cs-fixer-extensions": "^3.1.0"
